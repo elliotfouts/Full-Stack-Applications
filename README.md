@@ -6,7 +6,7 @@ For many software engineers, the job hunting process can become overwhelming. Be
 
 Cōdify is a PWA created to organize and analyze the job application process for software developers. It provides a centralized location to save job post URLs, contact information, job offers, application status, and much more.
 
-[View Code](https://github.com/yankidank/Codify) | [View Demo]() | [Deployed Site](https://codify-jobs.herokuapp.com/)
+[View Code](https://github.com/yankidank/Codify) | [View Demo]() | [Deployed Site](https://codify.works/jobs)
 
 ### Grocer-ease (Individual Project)
 Grocer-ease is a MERN application built to organize and simplify grocery shopping for my family. It is powered by a REST API which web scrapes product pictures from google images in order to deliver a streamlined and intuitive UI that even young members of my family became accustomed to very quickly. I used mongoose as my ODM and Material UI as my component framework. 
