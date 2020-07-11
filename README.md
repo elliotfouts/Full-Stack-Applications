@@ -5,7 +5,7 @@ Grocer-ease is a MERN application built to organize and simplify grocery shoppin
 
 [View Code](https://github.com/elliotfouts/react-grocery-list) | [View Demo]() 
 
-##### Codify (group project)
+### Codify (group project)
 For many software engineers, the job hunting process can become overwhelming. Between low success rates, complicated interview processes, and employers that may not even respond, it is difficult to keep track of valuable data. We built Cōdify to solve this problem.
 
 Cōdify is a PWA created to organize and analyze the job application process for software developers. It provides a centralized location to save job post URLs, contact information, job offers, application status, and much more.
