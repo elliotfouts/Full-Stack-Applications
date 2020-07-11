@@ -3,7 +3,7 @@
 ### Grocer-ease (individual project)
 Grocer-ease is a MERN application built to organize and simplify grocery shopping for my family. It is powered by a REST API which web scrapes product pictures from google images in order to deliver a streamlined and intuitive UI that even young members of my family became accustomed to very quickly. I used mongoose as my ODM and Material UI as my component framework. 
 
-[View Code](https://github.com/elliotfouts/react-grocery-list) | [View Demo]() 
+[View Code](https://github.com/elliotfouts/react-grocery-list) | [View Demo](https://drive.google.com/drive/u/0/folders/1n8NWQ1X7Ekh9yDiUdC2DuvBll5zr_O4h) 
 
 ### Codify (group project)
 For many software engineers, the job hunting process can become overwhelming. Between low success rates, complicated interview processes, and employers that may not even respond, it is difficult to keep track of valuable data. We built Cōdify to solve this problem.
